@@ -1,0 +1,597 @@
+0000.001 (0) Opened log file at time: Wed, 12 Feb 2025 12:13:43 +0000 on http://localhost/2025/jan/23/wordpress
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.2 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-9GOOC80 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 78.4M | 80M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 82862.9 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.048 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.055 (0) Set semaphore last lock (fd) time to 2025-02-12 12:13:43
+0000.057 (0) Semaphore lock (fd) complete
+0000.064 (0) Backup run: resumption=0, nonce=1d27a7f38bce, file_nonce=1d27a7f38bce begun at=1739362423 (0s ago), job type=backup
+0000.068 (0) Scheduling a resumption (1) after 300 seconds (1739362723) in case this run gets aborted
+0000.122 (0) Checking if we have a zip executable available
+0000.126 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.128 (0) Creation of backups of directories: beginning
+0000.137 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.756 (0) Total entities for the zip file: 1168 directories, 6968 files (0 skipped as non-modified), 97.6 MB
+0003.782 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 99904.2 KB, split: 409600 KB)
+0003.927 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.012 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.058 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.104 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0004.148 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0004.196 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0004.242 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0004.287 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0004.334 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0004.380 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0004.428 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0004.479 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0004.524 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0004.570 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0004.616 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0004.663 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0004.708 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0004.755 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0004.820 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0004.880 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0004.938 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0004.995 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0005.052 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0005.106 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0005.160 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0005.214 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0005.270 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0005.326 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0005.385 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0005.438 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0005.497 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0005.551 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0005.603 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0005.657 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0005.718 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0005.781 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0005.835 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0005.889 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0005.947 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0006.012 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0006.074 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0006.131 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0006.183 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0006.236 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0006.299 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0006.341 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0006.387 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0006.432 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0006.480 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0006.523 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0006.566 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0006.608 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0006.653 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0006.696 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0006.739 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0006.783 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0006.827 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0006.869 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0006.914 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0006.960 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0007.003 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0007.046 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0007.093 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0007.145 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0007.191 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0007.235 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0007.281 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0007.326 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0007.370 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0302.338 (1) Opened log file at time: Wed, 12 Feb 2025 12:18:45 +0000 on http://localhost/2025/jan/23/wordpress
+0302.340 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.1 WP: 6.7.2 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-9GOOC80 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 69M | 74M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0302.342 (1) Free space on disk containing Updraft's temporary directory: 82797.6 MB
+0302.345 (1) Requesting backup semaphore lock (1d27a7f38bce)
+0302.349 (1) [Debug] Lock option (updraft_lock_1d27a7f38bce, wp_options) was created in the database
+0302.353 (1) [Info] Lock (updraft_lock_1d27a7f38bce, wp_options) acquired after initialising the database
+0302.356 (1) Backup run: resumption=1, nonce=1d27a7f38bce, file_nonce=1d27a7f38bce begun at=1739362423 (302s ago), job type=backup
+0302.359 (1) Scheduling a resumption (2) after 300 seconds (1739363025) in case this run gets aborted
+0302.377 (1) Checking if we have a zip executable available
+0302.379 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0302.381 (1) Creation of backups of directories: had begun; will resume
+0302.386 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0302.394 (1) Terminate: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1739362725, time_now=1739362725, diff=0, size=32490.5KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0302.398 (1) Rescheduling resumption 2: moving to 420 seconds from now (1739363145)
+0302.405 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 120 = 420
+0422.010 (0) The time we have been running (422) is approaching the resumption interval (300) - increasing resumption interval to 453
+0422.097 (0) Creating zip file manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.list-temp.tmp)
+0422.141 (0) Successfully created zip file manifest (size: 598300)
+0422.632 (0) Created plugins zip (0) - 35599.7 KB in 422.5 s (84.3 KB/s) (sha1: a72c9e5b9d5f618054eb26032e8c8a8e95221d42, sha256: 376a83d2587d531ca5e2e0f315c60abdf98030b78df97b9f8cc0c84bb1a7b8a4)
+0422.645 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0422.646 (0) No remote despatch: user chose no remote backup service
+0422.647 (0) Recording as successfully uploaded: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip
+0422.650 (0) Deleting zip manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip.list.tmp)
+0422.655 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0422.660 (0) Number of backup sets in history: 2; groups (db): 1
+0422.661 (0) Examining (for databases) backup set with group_id=0, nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0422.663 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.663 (0) Examining (for databases) backup set with group_id=0, nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0422.663 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.663 (0) Number of backup sets in history: 2; groups (files): 1
+0422.664 (0) Examining (for files) backup set with nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0422.664 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.664 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.664 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.664 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.664 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0422.665 (0) Examining (for files) backup set with nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0422.665 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.666 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.666 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.666 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0422.666 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0422.666 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0422.675 (0) Beginning creation of dump of themes (split every: 400 MB)
+0422.863 (0) Total entities for the zip file: 60 directories, 286 files (0 skipped as non-modified), 11.3 MB
+0422.864 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 11572.1 KB, split: 409600 KB)
+0422.911 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0422.954 (0) Zip: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0436.511 (0) The time we have been running (436.5) is approaching the resumption interval (453) - increasing resumption interval to 467
+0436.525 (0) Creating zip file manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip.list-temp.tmp)
+0436.531 (0) Successfully created zip file manifest (size: 19119)
+0436.616 (0) Created themes zip (0) - 4090.3 KB in 13.9 s (293.6 KB/s) (sha1: 5f6c42bb24409729abae62edc5d49e11e1311387, sha256: 7ad1afca3f063f021c6a520ecefe1b36a631868de967b157cc789e3be42921b2)
+0436.623 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0436.625 (0) No remote despatch: user chose no remote backup service
+0436.626 (0) Recording as successfully uploaded: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip
+0436.630 (0) Deleting zip manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip.list.tmp)
+0436.633 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0436.636 (0) Number of backup sets in history: 2; groups (db): 1
+0436.637 (0) Examining (for databases) backup set with group_id=0, nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0436.639 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.639 (0) Examining (for databases) backup set with group_id=0, nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0436.639 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.639 (0) Number of backup sets in history: 2; groups (files): 1
+0436.641 (0) Examining (for files) backup set with nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0436.641 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.641 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.641 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.641 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.641 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.642 (0) Examining (for files) backup set with nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0436.642 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.642 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.642 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.642 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0436.642 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.643 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0436.652 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0436.654 (0) Looking for candidates to backup in: C:\xampp\htdocs\2025\jan\23\wordpress/wp-content/uploads
+0436.656 (0) finding files: 2025: adding to list (1)
+0436.657 (0) finding files: fonts: adding to list (2)
+0436.659 (0) finding files: wc-logs: adding to list (3)
+0436.660 (0) finding files: woocommerce-placeholder.png: adding to list (4)
+0436.662 (0) finding files: woocommerce_uploads: adding to list (5)
+0436.663 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0436.705 (0) Total entities for the zip file: 6 directories, 59 files (0 skipped as non-modified), 2.9 MB
+0436.706 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 2974.5 KB, split: 409600 KB)
+0437.776 (0) The time we have been running (437.8) is approaching the resumption interval (467) - increasing resumption interval to 468
+0437.790 (0) Creating zip file manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-uploads.zip.list-temp.tmp)
+0437.793 (0) Successfully created zip file manifest (size: 3658)
+0437.849 (0) Created uploads zip (0) - 2974.7 KB in 1.2 s (2526.5 KB/s) (sha1: 8ba68d95b37734094e388f387cbce7b663d27a2d, sha256: 81be44f870ca5171c73e06865821eea333dbb60705171d55c949979b4297e554)
+0437.858 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0437.860 (0) No remote despatch: user chose no remote backup service
+0437.863 (0) Recording as successfully uploaded: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-uploads.zip
+0437.867 (0) Deleting zip manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-uploads.zip.list.tmp)
+0437.872 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0437.875 (0) Number of backup sets in history: 2; groups (db): 1
+0437.877 (0) Examining (for databases) backup set with group_id=0, nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0437.877 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.877 (0) Examining (for databases) backup set with group_id=0, nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0437.877 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.877 (0) Number of backup sets in history: 2; groups (files): 1
+0437.879 (0) Examining (for files) backup set with nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0437.879 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.879 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.879 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.880 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.880 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0437.882 (0) Examining (for files) backup set with nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0437.882 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.882 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.882 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.882 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0437.882 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0437.882 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0437.892 (0) No backup of mu-plugins: excluded by user's options
+0437.895 (0) Beginning backup of other directories found in the content directory (index: 0)
+0437.898 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0437.900 (0) Looking for candidates to backup in: C:\xampp\htdocs\2025\jan\23\wordpress/wp-content
+0437.903 (0) finding files: index.php: adding to list (1)
+0437.904 (0) finding files: logs: adding to list (2)
+0437.906 (0) finding files: plugins: skipping: this is the plugins directory
+0437.908 (0) finding files: themes: skipping: this is the themes directory
+0437.910 (0) finding files: updraft: skipping: this is the updraft directory
+0437.912 (0) finding files: upgrade: skipping: excluded by options
+0437.914 (0) finding files: uploads: skipping: this is the uploads directory
+0437.927 (0) Total entities for the zip file: 2 directories, 3 files (0 skipped as non-modified), 0 MB
+0437.930 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 1.3 KB, split: 409600 KB)
+0438.012 (0) Creating zip file manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-others.zip.list-temp.tmp)
+0438.015 (0) Successfully created zip file manifest (size: 134)
+0438.027 (0) Created others zip (0) - 0.8 KB in 0.1 s (8.1 KB/s) (sha1: 569085a1deccd53655eeff82f97fb22aba434231, sha256: 73d7c7f1579714886c6ca2a77d1c68f8954aee846278a31d1b48d7204dc09d12)
+0438.035 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0438.037 (0) No remote despatch: user chose no remote backup service
+0438.040 (0) Recording as successfully uploaded: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-others.zip
+0438.044 (0) Deleting zip manifest (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-others.zip.list.tmp)
+0438.049 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0438.051 (0) Number of backup sets in history: 2; groups (db): 1
+0438.053 (0) Examining (for databases) backup set with group_id=0, nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0438.053 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.053 (0) Examining (for databases) backup set with group_id=0, nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0438.053 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.053 (0) Number of backup sets in history: 2; groups (files): 1
+0438.055 (0) Examining (for files) backup set with nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0438.055 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.055 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.055 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.055 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.055 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0438.057 (0) Examining (for files) backup set with nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0438.057 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.057 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.057 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.057 (0) This backup set (1739179353) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0438.057 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0438.057 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0438.073 (0) Saving backup status to database (elements: 8)
+0438.078 (0) Beginning creation of database dump (WordPress DB)
+0438.080 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0438.169 (0) Table wp_options: Total expected rows (via COUNT): 445
+0438.170 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.211 (0) Table wp_options: Rows added in this batch (next record: 938): 441 (uncompressed bytes in this segment=1043768) in 0.07 seconds
+0438.220 (0) The time we have been running (438.2) is approaching the resumption interval (468) - increasing resumption interval to 469
+0438.230 (0) Table wp_options: finishing file(s) (2, 105.5 KB)
+0438.253 (0) Table wp_users: Total expected rows (via COUNT): 1
+0438.255 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.259 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1192) in 0.02 seconds
+0438.270 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0438.295 (0) Table wp_usermeta: Total expected rows (via COUNT): 34
+0438.296 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.300 (0) Table wp_usermeta: Rows added in this batch (next record: 35): 34 (uncompressed bytes in this segment=4183) in 0.02 seconds
+0438.314 (0) Table wp_usermeta: finishing file(s) (2, 1.8 KB)
+0438.339 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 36
+0438.341 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.345 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 140): 36 (uncompressed bytes in this segment=14573) in 0.02 seconds
+0438.359 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2 KB)
+0438.385 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0438.389 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.02 seconds
+0438.402 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0438.431 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0438.432 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.436 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=700) in 0.03 seconds
+0438.452 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0438.494 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 106
+0438.501 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.518 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 106): 106 (uncompressed bytes in this segment=10264) in 0.06 seconds
+0438.543 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.8 KB)
+0438.577 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0438.581 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.03 seconds
+0438.594 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0438.620 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0438.621 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.626 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1929) in 0.02 seconds
+0438.638 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0438.680 (0) Table wp_links: Total expected rows (via COUNT): 0
+0438.684 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.02 seconds
+0438.696 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0438.723 (0) Table wp_postmeta: Total expected rows (via COUNT): 670
+0438.725 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.734 (0) Table wp_postmeta: Rows added in this batch (next record: 732): 670 (uncompressed bytes in this segment=38814) in 0.03 seconds
+0438.749 (0) Table wp_postmeta: finishing file(s) (2, 6.1 KB)
+0438.777 (0) Table wp_posts: Total expected rows (via COUNT): 174
+0438.778 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.795 (0) Table wp_posts: Rows added in this batch (next record: 180): 174 (uncompressed bytes in this segment=102269) in 0.04 seconds
+0438.814 (0) Table wp_posts: finishing file(s) (2, 15.6 KB)
+0438.837 (0) Table wp_term_relationships: Total expected rows (approximate): 54
+0438.843 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 54 (uncompressed bytes in this segment=1437) in 0.02 seconds
+0438.856 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0438.884 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 21
+0438.886 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.890 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1658) in 0.03 seconds
+0438.904 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0438.933 (0) Table wp_termmeta: Total expected rows (via COUNT): 9
+0438.934 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.936 (0) Table wp_termmeta: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=960) in 0.02 seconds
+0438.953 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0438.977 (0) Table wp_terms: Total expected rows (via COUNT): 21
+0438.979 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0438.982 (0) Table wp_terms: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1482) in 0.02 seconds
+0438.993 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0439.016 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 3
+0439.021 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=611) in 0.02 seconds
+0439.029 (0) The time we have been running (439) is approaching the resumption interval (469) - increasing resumption interval to 470
+0439.039 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0439.066 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 11
+0439.067 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.072 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 179): 11 (uncompressed bytes in this segment=2411) in 0.02 seconds
+0439.084 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.7 KB)
+0439.122 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0439.126 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.02 seconds
+0439.139 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0439.164 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0439.166 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.170 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.02 seconds
+0439.182 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0439.222 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0439.226 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.02 seconds
+0439.240 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0439.281 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0439.283 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.02 seconds
+0439.297 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0439.345 (0) Table wp_newsletter: Total expected rows (via COUNT): 4
+0439.346 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.352 (0) Table wp_newsletter: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=5790) in 0.02 seconds
+0439.364 (0) Table wp_newsletter: finishing file(s) (2, 1 KB)
+0439.394 (0) Table wp_newsletter_emails: Total expected rows (via COUNT): 0
+0439.398 (0) Table wp_newsletter_emails: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1700) in 0.03 seconds
+0439.411 (0) Table wp_newsletter_emails: finishing file(s) (2, 0.6 KB)
+0439.450 (0) Table wp_newsletter_logs: Total expected rows (via COUNT): 0
+0439.452 (0) Table wp_newsletter_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.02 seconds
+0439.467 (0) Table wp_newsletter_logs: finishing file(s) (2, 0.4 KB)
+0439.506 (0) Table wp_newsletter_sent: Total expected rows (approximate): 0
+0439.508 (0) Table wp_newsletter_sent: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=798) in 0.02 seconds
+0439.523 (0) Table wp_newsletter_sent: finishing file(s) (2, 0.4 KB)
+0439.563 (0) Table wp_newsletter_stats: Total expected rows (via COUNT): 0
+0439.565 (0) Table wp_newsletter_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.02 seconds
+0439.578 (0) Table wp_newsletter_stats: finishing file(s) (2, 0.4 KB)
+0439.617 (0) Table wp_newsletter_user_logs: Total expected rows (via COUNT): 3
+0439.618 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.622 (0) Table wp_newsletter_user_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=897) in 0.02 seconds
+0439.640 (0) Table wp_newsletter_user_logs: finishing file(s) (2, 0.5 KB)
+0439.676 (0) Table wp_newsletter_user_meta: Total expected rows (via COUNT): 0
+0439.679 (0) Table wp_newsletter_user_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=611) in 0.02 seconds
+0439.693 (0) Table wp_newsletter_user_meta: finishing file(s) (2, 0.4 KB)
+0439.720 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 88
+0439.721 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.728 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 172): 88 (uncompressed bytes in this segment=17612) in 0.03 seconds
+0439.742 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2.9 KB)
+0439.769 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 60
+0439.771 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0439.778 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 60): 60 (uncompressed bytes in this segment=29727) in 0.03 seconds
+0439.791 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.4 KB)
+0439.833 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0439.840 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.03 seconds
+0439.858 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0439.900 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0439.902 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.02 seconds
+0439.918 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0439.961 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0439.963 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.02 seconds
+0439.976 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0440.004 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0440.007 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.02 seconds
+0440.016 (0) The time we have been running (440) is approaching the resumption interval (470) - increasing resumption interval to 471
+0440.027 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0440.056 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0440.059 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1399) in 0.02 seconds
+0440.072 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0440.105 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0440.107 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.02 seconds
+0440.120 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0440.146 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0440.149 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1192) in 0.02 seconds
+0440.161 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0440.202 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0440.204 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.02 seconds
+0440.216 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0440.243 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0440.246 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1417) in 0.02 seconds
+0440.258 (0) Table wp_wc_orders: finishing file(s) (2, 0.5 KB)
+0440.300 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0440.304 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.02 seconds
+0440.322 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0440.347 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0440.352 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=831) in 0.02 seconds
+0440.364 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0440.403 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0440.404 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0440.409 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=909) in 0.02 seconds
+0440.430 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0440.470 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0440.475 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.02 seconds
+0440.488 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0440.528 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0440.530 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.02 seconds
+0440.545 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0440.597 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0440.599 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.03 seconds
+0440.620 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0440.675 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0440.677 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.02 seconds
+0440.690 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0440.731 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0440.733 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.02 seconds
+0440.746 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0440.795 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0440.797 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.02 seconds
+0440.811 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0440.854 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0440.859 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.03 seconds
+0440.873 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0440.916 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0440.919 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.02 seconds
+0440.939 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0440.977 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0440.979 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0440.984 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2126) in 0.03 seconds
+0441.000 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0441.029 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0441.034 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.02 seconds
+0441.043 (0) The time we have been running (441) is approaching the resumption interval (471) - increasing resumption interval to 472
+0441.053 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0441.080 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0441.082 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.02 seconds
+0441.098 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0441.127 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0441.130 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=602) in 0.02 seconds
+0441.145 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.3 KB)
+0441.186 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0441.188 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.02 seconds
+0441.201 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0441.231 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0441.233 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.02 seconds
+0441.248 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0441.250 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\2025\jan\23\wordpress/wp-content/updraft/backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db.gz (line 1923, C:\xampp\htdocs\2025\jan\23\wordpress\wp-content\plugins\updraftplus\backup.php)
+0441.255 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_options.table.tmpr939.gz (1/57/fopen): adding to final database dump
+0441.262 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_options.table.gz (2/57/fopen): adding to final database dump
+0441.264 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_users.table.tmpr2.gz (3/57/fopen): adding to final database dump
+0441.266 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_users.table.gz (4/57/fopen): adding to final database dump
+0441.268 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_usermeta.table.tmpr36.gz (5/57/fopen): adding to final database dump
+0441.270 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_usermeta.table.gz (6/57/fopen): adding to final database dump
+0441.272 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_actions.table.tmpr141.gz (7/57/fopen): adding to final database dump
+0441.274 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_actions.table.gz (8/57/fopen): adding to final database dump
+0441.276 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/57/fopen): adding to final database dump
+0441.277 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_claims.table.gz (10/57/fopen): adding to final database dump
+0441.279 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/57/fopen): adding to final database dump
+0441.281 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_groups.table.gz (12/57/fopen): adding to final database dump
+0441.282 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_logs.table.tmpr107.gz (13/57/fopen): adding to final database dump
+0441.285 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_actionscheduler_logs.table.gz (14/57/fopen): adding to final database dump
+0441.286 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_commentmeta.table.tmpr0.gz (15/57/fopen): adding to final database dump
+0441.288 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_commentmeta.table.gz (16/57/fopen): adding to final database dump
+0441.290 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_comments.table.tmpr2.gz (17/57/fopen): adding to final database dump
+0441.292 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_comments.table.gz (18/57/fopen): adding to final database dump
+0441.294 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_links.table.tmpr0.gz (19/57/fopen): adding to final database dump
+0441.296 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_links.table.gz (20/57/fopen): adding to final database dump
+0441.298 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_postmeta.table.tmpr733.gz (21/57/fopen): adding to final database dump
+0441.300 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_postmeta.table.gz (22/57/fopen): adding to final database dump
+0441.301 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_posts.table.tmpr181.gz (23/57/fopen): adding to final database dump
+0441.304 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_posts.table.gz (24/57/fopen): adding to final database dump
+0441.306 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_term_relationships.table.tmpr100001.gz (25/57/fopen): adding to final database dump
+0441.308 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_term_relationships.table.gz (26/57/fopen): adding to final database dump
+0441.310 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_term_taxonomy.table.tmpr22.gz (27/57/fopen): adding to final database dump
+0441.311 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_term_taxonomy.table.gz (28/57/fopen): adding to final database dump
+0441.313 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_termmeta.table.tmpr10.gz (29/57/fopen): adding to final database dump
+0441.315 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_termmeta.table.gz (30/57/fopen): adding to final database dump
+0441.317 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_terms.table.tmpr22.gz (31/57/fopen): adding to final database dump
+0441.319 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_terms.table.gz (32/57/fopen): adding to final database dump
+0441.321 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/57/fopen): adding to final database dump
+0441.323 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_category_lookup.table.gz (34/57/fopen): adding to final database dump
+0441.324 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_meta_lookup.table.tmpr180.gz (35/57/fopen): adding to final database dump
+0441.326 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_meta_lookup.table.gz (36/57/fopen): adding to final database dump
+0441.328 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/57/fopen): adding to final database dump
+0441.330 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_reserved_stock.table.gz (38/57/fopen): adding to final database dump
+0441.332 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/57/fopen): adding to final database dump
+0441.334 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_tax_rate_classes.table.gz (40/57/fopen): adding to final database dump
+0441.336 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/57/fopen): adding to final database dump
+0441.337 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_order_itemmeta.table.gz (42/57/fopen): adding to final database dump
+0441.339 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/57/fopen): adding to final database dump
+0441.341 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/57/fopen): adding to final database dump
+0441.343 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter.table.tmpr5.gz (45/57/fopen): adding to final database dump
+0441.344 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter.table.gz (46/57/fopen): adding to final database dump
+0441.346 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_emails.table.tmpr0.gz (47/57/fopen): adding to final database dump
+0441.348 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_emails.table.gz (48/57/fopen): adding to final database dump
+0441.350 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_logs.table.tmpr0.gz (49/57/fopen): adding to final database dump
+0441.352 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_logs.table.gz (50/57/fopen): adding to final database dump
+0441.353 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_sent.table.tmpr1.gz (51/57/fopen): adding to final database dump
+0441.355 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_sent.table.gz (52/57/fopen): adding to final database dump
+0441.357 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_stats.table.tmpr0.gz (53/57/fopen): adding to final database dump
+0441.359 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_stats.table.gz (54/57/fopen): adding to final database dump
+0441.361 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_user_logs.table.tmpr4.gz (55/57/fopen): adding to final database dump
+0441.363 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_user_logs.table.gz (56/57/fopen): adding to final database dump
+0441.364 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_user_meta.table.tmpr0.gz (57/57/fopen): adding to final database dump
+0441.366 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_newsletter_user_meta.table.gz (58/57/fopen): adding to final database dump
+0441.368 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_admin_note_actions.table.tmpr173.gz (59/57/fopen): adding to final database dump
+0441.370 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_admin_note_actions.table.gz (60/57/fopen): adding to final database dump
+0441.371 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_admin_notes.table.tmpr61.gz (61/57/fopen): adding to final database dump
+0441.373 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_admin_notes.table.gz (62/57/fopen): adding to final database dump
+0441.375 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_customer_lookup.table.tmpr0.gz (63/57/fopen): adding to final database dump
+0441.377 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_customer_lookup.table.gz (64/57/fopen): adding to final database dump
+0441.378 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_download_log.table.tmpr0.gz (65/57/fopen): adding to final database dump
+0441.380 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_download_log.table.gz (66/57/fopen): adding to final database dump
+0441.382 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_addresses.table.tmpr0.gz (67/57/fopen): adding to final database dump
+0441.383 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_addresses.table.gz (68/57/fopen): adding to final database dump
+0441.385 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (69/57/fopen): adding to final database dump
+0441.387 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_coupon_lookup.table.gz (70/57/fopen): adding to final database dump
+0441.388 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_operational_data.table.tmpr0.gz (71/57/fopen): adding to final database dump
+0441.390 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_operational_data.table.gz (72/57/fopen): adding to final database dump
+0441.392 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (73/57/fopen): adding to final database dump
+0441.393 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_product_lookup.table.gz (74/57/fopen): adding to final database dump
+0441.395 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_stats.table.tmpr0.gz (75/57/fopen): adding to final database dump
+0441.397 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_stats.table.gz (76/57/fopen): adding to final database dump
+0441.399 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (77/57/fopen): adding to final database dump
+0441.400 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_order_tax_lookup.table.gz (78/57/fopen): adding to final database dump
+0441.402 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_orders.table.tmpr0.gz (79/57/fopen): adding to final database dump
+0441.404 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_orders.table.gz (80/57/fopen): adding to final database dump
+0441.405 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_orders_meta.table.tmpr0.gz (81/57/fopen): adding to final database dump
+0441.407 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_orders_meta.table.gz (82/57/fopen): adding to final database dump
+0441.408 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (83/57/fopen): adding to final database dump
+0441.410 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_attributes_lookup.table.gz (84/57/fopen): adding to final database dump
+0441.412 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_download_directories.table.tmpr3.gz (85/57/fopen): adding to final database dump
+0441.414 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_product_download_directories.table.gz (86/57/fopen): adding to final database dump
+0441.415 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_rate_limits.table.tmpr0.gz (87/57/fopen): adding to final database dump
+0441.417 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_rate_limits.table.gz (88/57/fopen): adding to final database dump
+0441.418 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_webhooks.table.tmpr0.gz (89/57/fopen): adding to final database dump
+0441.420 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_wc_webhooks.table.gz (90/57/fopen): adding to final database dump
+0441.422 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (91/57/fopen): adding to final database dump
+0441.423 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_api_keys.table.gz (92/57/fopen): adding to final database dump
+0441.425 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (93/57/fopen): adding to final database dump
+0441.427 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_attribute_taxonomies.table.gz (94/57/fopen): adding to final database dump
+0441.429 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (95/57/fopen): adding to final database dump
+0441.430 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (96/57/fopen): adding to final database dump
+0441.432 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_log.table.tmpr0.gz (97/57/fopen): adding to final database dump
+0441.433 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_log.table.gz (98/57/fopen): adding to final database dump
+0441.435 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_order_items.table.tmpr0.gz (99/57/fopen): adding to final database dump
+0441.439 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_order_items.table.gz (100/57/fopen): adding to final database dump
+0441.441 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (101/57/fopen): adding to final database dump
+0441.443 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_payment_tokens.table.gz (102/57/fopen): adding to final database dump
+0441.444 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_sessions.table.tmpr2.gz (103/57/fopen): adding to final database dump
+0441.446 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_sessions.table.gz (104/57/fopen): adding to final database dump
+0441.448 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (105/57/fopen): adding to final database dump
+0441.450 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zone_locations.table.gz (106/57/fopen): adding to final database dump
+0441.452 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (107/57/fopen): adding to final database dump
+0441.454 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zone_methods.table.gz (108/57/fopen): adding to final database dump
+0441.456 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (109/57/fopen): adding to final database dump
+0441.458 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_shipping_zones.table.gz (110/57/fopen): adding to final database dump
+0441.459 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (111/57/fopen): adding to final database dump
+0441.461 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_tax_rate_locations.table.gz (112/57/fopen): adding to final database dump
+0441.463 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (113/57/fopen): adding to final database dump
+0441.465 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db-table-wp_woocommerce_tax_rates.table.gz (114/57/fopen): adding to final database dump
+0441.553 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db.gz: finished writing out complete database file (164.5 KB)
+0441.595 (0) Total database tables backed up: 57 (backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db.gz, size: 168590, sha1: 7ccdcc2136168080d5f4903077ff3a122be15f55, sha256: b0ad3820f22750ee2fcf53d484dc0fbc3ce5a5bf66bb4a44515c51e083dd4e72)
+0441.605 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-plugins.zip: plugins: This file has already been successfully processed
+0441.606 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-themes.zip: themes: This file has already been successfully processed
+0441.608 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-uploads.zip: uploads: This file has already been successfully processed
+0441.609 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-others.zip: others: This file has already been successfully processed
+0441.611 (0) backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db.gz: db: This file has not yet been successfully uploaded: will queue
+0441.612 (0) Saving backup history. Total backup size: 41.8 MB
+0441.616 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0441.621 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0441.622 (0) No remote despatch: user chose no remote backup service
+0441.624 (0) Recording as successfully uploaded: backup_2025-02-12-1213_CarVilla_1d27a7f38bce-db.gz
+0441.628 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0441.631 (0) Number of backup sets in history: 3; groups (db): 1
+0441.632 (0) Examining (for databases) backup set with group_id=0, nonce=1d27a7f38bce, datestamp=1739362423 (Feb 12 2025 12:13:43)
+0441.634 (0) This backup set is the backup set just made, so will not be deleted.
+0441.634 (0) Examining (for databases) backup set with group_id=0, nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0441.634 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0441.634 (0) Examining (for databases) backup set with group_id=0, nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0441.634 (0) This backup set (1739179353) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0441.634 (0) Number of backup sets in history: 3; groups (files): 1
+0441.635 (0) Examining (for files) backup set with nonce=1d27a7f38bce, datestamp=1739362423 (Feb 12 2025 12:13:43)
+0441.635 (0) This backup set is the backup set just made, so will not be deleted.
+0441.637 (0) This backup set is the backup set just made, so will not be deleted.
+0441.637 (0) This backup set is the backup set just made, so will not be deleted.
+0441.637 (0) This backup set is the backup set just made, so will not be deleted.
+0441.637 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0441.638 (0) Examining (for files) backup set with nonce=12b458a92806, datestamp=1739247009 (Feb 11 2025 04:10:09)
+0441.638 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0441.638 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0441.638 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0441.639 (0) This backup set (1739247009) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0441.639 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0441.639 (0) Examining (for files) backup set with nonce=00836383fe13, datestamp=1739179353 (Feb 10 2025 09:22:33)
+0441.639 (0) This backup set (1739179353) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0441.639 (0) This backup set (1739179353) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0441.639 (0) This backup set (1739179353) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0441.639 (0) This backup set (1739179353) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0441.639 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0441.639 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0441.644 (0) Resume backup (1d27a7f38bce, 0): finish run
+0441.649 (0) Decremented the semaphore (fd) by 1
+0441.651 (0) Semaphore (fd) unlocked
+0441.654 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0441.664 (0) No email will/can be sent - the user has not configured an email address.
+0441.665 (0) The backup succeeded and is now complete

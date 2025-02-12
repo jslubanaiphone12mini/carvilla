@@ -1,0 +1,38 @@
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 45.9 MB/512 MB - developer > Start upgrade from 0.0.0
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.3 MB/512 MB - developer > Backing up options of 0.0.0
+10-02-2025 10:55:17 - INFO  - 8.7.0 - 46.4 MB/512 MB - developer > End

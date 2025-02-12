@@ -1,0 +1,15 @@
+{
+  "name": "carville",
+  "version": "1.0.0",
+  "description": "-----------------------\r # README\r -----------------------\r CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.83.4"
+  }
+}

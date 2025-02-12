@@ -1,0 +1,18 @@
+@import 'variables';
+@import 'header';
+@import 'footer';
+
+.footer-1 {
+  p {
+    font-size: 14px;
+    color: #eeeff6;
+    max-width: 300px;
+    margin: 40px 0 20px;
+  }
+  a {
+    margin: 0;
+    color: #d1d7e9;
+    max-width: 300px;
+    font-size: 14px;
+  }
+}
