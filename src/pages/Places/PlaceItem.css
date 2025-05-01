@@ -1,0 +1,58 @@
+.places-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+  }
+  
+  .place-card {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  }
+  
+  .place-image {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .place-details {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .places-action-buttons button {
+    padding: 10px 20px;
+    margin: 0px 10px;
+    background: transparent;
+    border-radius: 5px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .place-card {
+    flex-direction: column;
+  }
+
+  .place-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .places-action-buttons {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .places-action-buttons button {
+    width: 100%;
+    margin-top: 10px;
+  }
+}

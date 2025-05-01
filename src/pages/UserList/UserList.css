@@ -1,0 +1,59 @@
+/* Root Container */
+.userlist-0416-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.userlist-0416-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.userlist-0416-card {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.2s ease;
+}
+.userlist-0416-grid a {
+  color: #000;
+  text-decoration: none;
+}
+.userlist-0416-card:hover {
+  transform: translateY(-5px);
+}
+
+.userlist-0416-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.userlist-0416-content {
+  padding: 15px;
+}
+
+.userlist-0416-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.userlist-0416-placecount {
+  color: #555;
+  font-size: 14px;
+}
+
+@media (max-width: 600px) {
+  .userlist-0416-card {
+    margin: 0 auto;
+  }
+}
+
+.userlist-0416-name {
+  text-transform: capitalize;
+}

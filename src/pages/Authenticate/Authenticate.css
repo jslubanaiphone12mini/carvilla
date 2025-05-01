@@ -1,0 +1,98 @@
+.Authenticate .form-2025-04-22-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  /* height: 50vh; */
+}
+
+.Authenticate .form-2025-04-22-card {
+  background-color: white;
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.Authenticate h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.Authenticate input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.Authenticate button {
+  width: 100%;
+  padding: 12px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.Authenticate button:hover {
+  background-color: #45a049;
+}
+
+.Authenticate .form-2025-04-22-form-toggle {
+  margin-bottom: 20px;
+}
+
+.Authenticate .form-2025-04-22-toggle-btn {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.Authenticate .form-2025-04-22-toggle-btn.active {
+  background-color: #000;
+  color: white;
+}
+
+.Authenticate .form-2025-04-22-toggle-btn:hover {
+  background-color: #45a049;
+}
+
+.Authenticate .form-2025-04-22-form {
+  /* display: none; */
+}
+
+.Authenticate .form-2025-04-22-form.form-2025-04-22-hidden {
+  display: block;
+}
+
+@media (max-width: 480px) {
+  .Authenticate .form-2025-04-22-card {
+    padding: 20px;
+  }
+
+  .Authenticate button,
+  .Authenticate input {
+    padding: 12px;
+  }
+}
+.Authenticate button.switch-button {
+  margin-top: 10px;
+  color: #000;
+  background: #fff;
+  border: 1px solid #000;
+}
+.Authenticate button.login-register-btn.disabled {
+  background-color: #00000057;
+}
